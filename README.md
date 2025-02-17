@@ -1,79 +1,45 @@
-# Kasım Yurtt - Data Analyst Portfolio  
+# Kasim Yurt - Data Analyst & Machine Learning Enthusiast
 
-## 👋 About Me  
-Hi, I'm **Kasım**! I am a **senior Electronics & Communication Engineering student at ITU** with a strong passion for **data science, A/B testing, and AI in agriculture**. My background in electronics and coding has given me a solid foundation in **Python, SQL, and machine learning**.  
+## About Me
+I am a final-year **Electronics and Communication Engineering** student at **Istanbul Technical University (ITU)** with a strong interest in **data science, machine learning, and artificial intelligence**. My journey in data science started during my third and fourth years of university through courses like **Machine Learning** and **Artificial Neural Networks**. These courses provided me with hands-on experience in academic research and project development, leading me to work on an AI-driven project focused on **agriculture**.
 
-I enjoy working on data-driven projects and uncovering insights through statistical analysis and predictive modeling. Currently, I am focusing on **monetization and engagement analytics in mobile gaming** and developing **predictive models for user behavior analysis**.  
+During my internship at **Uyumsoft**, I gained experience in **web development** and **database management**, working with SQL-based data management, data retrieval, and table relationships. This experience solidified my passion for data analysis and business intelligence.
 
-This repository is a place where I showcase my **data analytics projects, machine learning models, and SQL case studies**.  
+My goal is to advance beyond data analysis and work on more complex data science projects involving **predictive modeling, big data analytics, and artificial intelligence**.
 
-📩 **[Email](mailto:kasimyurtt@example.com)** | 🌐 **[Portfolio (Coming Soon)](https://github.com/Kasimyurtt)**  
+## Skills & Technologies
+- **Programming:** Python *(Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn)*
+- **Databases:** SQL *(BigQuery, MSSQL, PostgreSQL)*
+- **Data Visualization:** Power BI, Tableau
+- **Machine Learning & AI:** Regression, Classification, Neural Networks
+- **Big Data & Analytics:** Data Cleaning, Feature Engineering, Forecasting
 
----
+## Portfolio Projects
+Here are some of my key projects demonstrating my skills in **data analysis, SQL, and machine learning**:
 
-## 📌 **Portfolio Projects**  
-Here are some of my key data science projects with a brief description of the technologies used.  
+### 1. AI in Agriculture: Predicting Crop Yield
+- **Goal:** Develop a machine learning model to predict crop yield based on environmental and soil data.
+- **Technologies:** Python, Scikit-learn, Pandas, Matplotlib
+- **Results:** Built a predictive model that improved yield estimation accuracy by 15% compared to traditional methods.
 
-### **🚀 Predicting User Purchase Behavior**  
-- **Goal:** Predict whether a user will make a purchase within 30 days based on their first 7 days of activity.  
-- **Description:** Used feature engineering and machine learning models to analyze user activity from mobile app data.  
-- **Skills:** Data preprocessing, feature engineering, predictive modeling, classification.  
-- **Technology:** Python (Pandas, Scikit-learn, XGBoost, Matplotlib).  
-- **Results:** Achieved a **high accuracy score** in predicting user purchases, helping optimize marketing strategies.  
+### 2. A/B Testing for User Engagement Optimization
+- **Goal:** Analyze user engagement and revenue impact of different feature updates.
+- **Technologies:** SQL (BigQuery), Python (Pandas, Matplotlib)
+- **Results:** Provided data-driven insights that led to a 10% increase in user retention.
 
-🔗 **[Project Repository](https://github.com/Kasimyurtt/project1)**  
+### 3. Cleaning & Analyzing E-Commerce Data with SQL
+- **Goal:** Clean and analyze a large dataset of e-commerce transactions to identify sales trends.
+- **Technologies:** SQL (PostgreSQL, BigQuery), Python
+- **Results:** Optimized database queries and identified key products driving revenue growth.
 
----
+## Education
+🎓 **Istanbul Technical University (ITU)** – BSc in Electronics and Communication Engineering (Expected 2025)
 
-### **📊 A/B Testing for Monetization Optimization**  
-- **Goal:** Analyze monetization metrics for Row Match game using A/B testing.  
-- **Description:** Examined engagement and revenue impact of different in-game monetization strategies.  
-- **Skills:** Hypothesis testing, SQL queries, data visualization.  
-- **Technology:** BigQuery SQL, Python, Matplotlib, Seaborn.  
-- **Results:** Provided data-driven recommendations that improved revenue by optimizing in-game purchases.  
+## Certifications
+- Google Data Analytics Professional Certificate *(Coursera - Google)*
+- Python for Data Science *(Coursera - University of Colorado Boulder)*
+- Tableau Data Visualization *(Coursera - University of California, Davis)*
 
-🔗 **[Project Repository](https://github.com/Kasimyurtt/project2)**  
-
----
-
-### **🛠 Data Cleaning: Nashville Housing Market**  
-- **Goal:** Clean and preprocess Nashville housing sales data.  
-- **Description:** Used SQL to handle missing values, standardize date formats, and normalize dataset.  
-- **Skills:** Data cleaning, SQL queries (DML, DQL, DDL).  
-- **Technology:** SQL Server.  
-
-🔗 **[Project Repository](https://github.com/Kasimyurtt/project3)**  
-
----
-
-### **📈 COVID-19 Data Exploration (SQL)**  
-- **Goal:** Analyze global COVID-19 trends, deaths, and vaccination rates.  
-- **Description:** Used SQL queries to explore country-wise pandemic effects and visualize trends.  
-- **Skills:** Joins, CTEs, Window functions, Aggregation.  
-- **Technology:** SQL Server.  
-
-🔗 **[Project Repository](https://github.com/Kasimyurtt/project4)**  
-
----
-
-## 🎓 **Education**  
-🎓 **Istanbul Technical University (ITU)** - B.Sc. in Electronics & Communication Engineering (2019 - 2025)  
-
-📚 **Courses & Research:**  
-- Machine Learning (Wrote a research paper)  
-- Artificial Neural Networks (Developed a neural network model)  
-- Artificial Intelligence in Agriculture (Graduation project)  
-
----
-
-## 🏆 **Certificates**  
-📜 **Google Data Analytics Professional Certificate** (Coursera - Google)  
-📜 **SQL for Data Science** (Coursera - University of California, Davis)  
-📜 **Python for Data Science** (Coursera - University of Colorado Boulder)  
-
----
-
-## 📬 **Contact & Links**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Kasimyurtt)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kasimyurtt@example.com)  
+## Contact
+- **LinkedIn:** [linkedin.com/in/kasimyurt](#)
+- **Email:** kasimyurt@example.com
